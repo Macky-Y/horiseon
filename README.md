@@ -1,8 +1,2 @@
-# Code Refactor Starter Code
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the heading attributes
-THEN they fall in sequential order
+# About this project
+This project is about helping businesses in the internet world. Nowadays people tends to look at the internet and find something they want to go to for example dining, shops and etc. This website helps new businesses that people are not familiar with to be placed in a search engine and it also have an online reputation feature like yelp.
